@@ -53,7 +53,7 @@ Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify y
 Vitrox Corps. It has growing revenue by the year while Pentamaster has dropped in revenue over the years.
 
 9. List down at least 2 investment resources (blogs/any media) that you found useful.
-   Ilham Abrar Resources, Trivision Northern Resources.
+   Ilham Abrar Resources, Trivision Northern Resources..
 
 -- End -- <br>
 *Add 'Completed' as commit message after completing the assignment.
